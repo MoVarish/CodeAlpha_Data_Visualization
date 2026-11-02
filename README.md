@@ -28,5 +28,5 @@ Created By
 Mo Varish
 
 Aspiring Business Analyst | Data Analytics Learner
-
+![Sales Dashboard](Sale%20Analysis%20Deshboard.png)
 
