@@ -1,2 +1,3 @@
-# CodeAlpha_Data_Visualization
-My First Data Visualization
+# Sales Data Analysis Dashboard
+My First Data Analytics Project by Mo Varish
+
